@@ -2,30 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>http://99.yomant.com:55151/app/game.ipa</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.roy.game</string>
-                <key>bundle-version</key>
-                <string>1.0.0</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>game.ipa</string>
-            </dict>
-        </dict>
-    </array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>www.storytreeclub.com/test.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.fnst.smartwork</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>test.ipa</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
